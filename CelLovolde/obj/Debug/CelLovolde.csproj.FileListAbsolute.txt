@@ -1,0 +1,15 @@
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\bin\Debug\CelLovolde.exe.config
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\bin\Debug\CelLovolde.exe
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\bin\Debug\CelLovolde.pdb
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde.csprojAssemblyReference.cache
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\App.g.cs
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde_MarkupCompile.cache
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde_MarkupCompile.lref
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde.g.resources
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde.Properties.Resources.resources
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde.csproj.GenerateResource.cache
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde.exe
+D:\Program Files (x86)\prog\CelLovolde\CelLovolde\obj\Debug\CelLovolde.pdb
